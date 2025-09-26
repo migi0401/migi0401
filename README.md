@@ -12,8 +12,8 @@
 
 ### FE 공부
 
-#### [1. Dart 소개](https://devlog111.tistory.com/5)
-
 #### [2. Dart의 다양한 변수들](https://devlog111.tistory.com/6)
 
 #### [3. Dart의 데이터 타입](https://devlog111.tistory.com/7)
+
+#### [4. Dart의 함수](https://devlog111.tistory.com/8)
