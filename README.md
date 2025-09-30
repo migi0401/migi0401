@@ -2,11 +2,11 @@
 
 ### Java
 
-#### [4. 클래스와 상속](https://devlog111.tistory.com/4)
+#### [5. Static과 상속](https://devlog111.tistory.com/10)
+
+#### [4. 클래스](https://devlog111.tistory.com/4)
 
 #### [3. 자바 기본 문법(2)](https://devlog111.tistory.com/3)
-
-#### [2. 자바 기본 문법(1)](https://devlog111.tistory.com/2)
 
 ***
 
