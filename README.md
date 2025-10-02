@@ -1,4 +1,4 @@
-## Blog posting (09/30 update)
+## Blog posting (2025/10/02 update)
 
 ### Java
 
@@ -12,8 +12,8 @@
 
 ### FE 공부
 
-#### [3. Dart의 데이터 타입](https://devlog111.tistory.com/7)
-
 #### [4. Dart의 함수](https://devlog111.tistory.com/8)
 
 #### [5. Dart의 클래스 - 마무리](https://devlog111.tistory.com/9)
+
+#### [6. Flutter 소개 및 설치](https://devlog111.tistory.com/11)
