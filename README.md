@@ -2,7 +2,7 @@
 
 ### Java
 
-#### [6.추상 클래스와 인터페이스] (https://devlog111.tistory.com/12)
+#### [6.추상 클래스와 인터페이스](https://devlog111.tistory.com/12)
 
 #### [5. Static과 상속](https://devlog111.tistory.com/10)
 
