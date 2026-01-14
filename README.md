@@ -1,4 +1,4 @@
-## Blog posting (2026/1/7 update)
+## Blog posting (2026/1/14 update)
 
 ### Java
 
@@ -10,10 +10,10 @@
 
 ***
 
-### FE 공부 & 개발
+### 알고리즘 & 개발
+
+#### [Do it! 알고리즘 1주차](https://devlog111.tistory.com/16)
 
 #### [RN 개발세팅](https://devlog111.tistory.com/14)
 
 #### [6. Flutter 소개 및 설치](https://devlog111.tistory.com/11)
-
-#### [5. Dart의 클래스 - 마무리](https://devlog111.tistory.com/9)
