@@ -1,12 +1,12 @@
-## Blog posting (2026/1/14 update)
+## Blog posting (2026/1/16 update)
 
 ### Java
+
+#### [스프링 입문(1)](https://devlog111.tistory.com/17)
 
 #### [8. 사용자 기반 카페 POS - 자바 GUI 개발](https://devlog111.tistory.com/15)
 
 #### [7. GUI프로그래밍 소개 & 프로젝트 시작](https://devlog111.tistory.com/13)
-
-#### [6. 추상 클래스와 인터페이스](https://devlog111.tistory.com/12)
 
 ***
 
