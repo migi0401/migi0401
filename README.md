@@ -1,4 +1,4 @@
-## Blog posting (2026/1/16 update)
+## Blog posting (2026/1/20 update)
 
 ### Java
 
