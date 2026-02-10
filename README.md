@@ -2,6 +2,8 @@
 
 ### Java
 
+#### [스프링 핵심 원리 (기본편-2)](https://devlog111.tistory.com/23)
+
 #### [스프링 핵심 원리 (기본편)](https://devlog111.tistory.com/22)
 
 #### [스프링 입문(2)](https://devlog111.tistory.com/19)
