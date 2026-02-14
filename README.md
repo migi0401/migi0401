@@ -1,4 +1,4 @@
-## Blog posting (2026/2/13 update)
+## Blog posting (2026/2/14 update)
 
 ### Java
 
@@ -14,10 +14,10 @@
 
 ### 알고리즘 & 개발
 
+#### [Do it! 알고리즘 7주차](https://devlog111.tistory.com/26)
+
 #### [Do it! 알고리즘 6주차](https://devlog111.tistory.com/25)
 
 #### [Do it! 알고리즘 5주차](https://devlog111.tistory.com/24)
 
 #### [Do it! 알고리즘 4주차](https://devlog111.tistory.com/21)
-
-#### [Do it! 알고리즘 3주차](https://devlog111.tistory.com/20)
