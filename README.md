@@ -1,4 +1,4 @@
-## Blog posting (2026/2/16 update)
+## Blog posting (2026/2/17 update)
 
 ### Java
 
@@ -14,10 +14,11 @@
 
 ### 알고리즘 & 개발
 
+#### [스프링 미니 프로젝트 - HTTP API](https://devlog111.tistory.com/29)
+
 #### [스프링 미니 프로젝트 - ERD](https://devlog111.tistory.com/28)
 
 #### [HTTP 웹 기본 지식 - 1](https://devlog111.tistory.com/27)
 
 #### [Do it! 알고리즘 7주차](https://devlog111.tistory.com/26)
 
-#### [Do it! 알고리즘 6주차](https://devlog111.tistory.com/25)
