@@ -1,4 +1,4 @@
-## Blog posting (2026/2/17 update)
+## Blog posting (2026/2/19 update)
 
 ### Java
 
@@ -13,6 +13,8 @@
 ***
 
 ### 알고리즘 & 개발
+
+#### [스프링 미니 프로젝트 - 리팩터링(1)](https://devlog111.tistory.com/30)
 
 #### [스프링 미니 프로젝트 - HTTP API](https://devlog111.tistory.com/29)
 
