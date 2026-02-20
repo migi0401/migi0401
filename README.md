@@ -1,24 +1,18 @@
-## Blog posting (2026/2/19 update)
+## Blog posting (2026/2/20 update)
 
-### Java
+### Java & Spring
 
-#### [스프링 핵심 원리 (기본편-2)](https://devlog111.tistory.com/23)
-
-#### [스프링 핵심 원리 (기본편)](https://devlog111.tistory.com/22)
-
-#### [스프링 입문(2)](https://devlog111.tistory.com/19)
-
-#### [스프링 입문(1)](https://devlog111.tistory.com/17)
-
-***
-
-### 알고리즘 & 개발
+#### [스프링 미니 프로젝트 - RN 연동](https://devlog111.tistory.com/31)
 
 #### [스프링 미니 프로젝트 - 리팩터링(1)](https://devlog111.tistory.com/30)
 
 #### [스프링 미니 프로젝트 - HTTP API](https://devlog111.tistory.com/29)
 
 #### [스프링 미니 프로젝트 - ERD](https://devlog111.tistory.com/28)
+
+***
+
+### 알고리즘 & 강의
 
 #### [HTTP 웹 기본 지식 - 1](https://devlog111.tistory.com/27)
 
