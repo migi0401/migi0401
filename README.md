@@ -14,6 +14,8 @@
 
 ### 알고리즘 & 강의
 
+#### [HTTP 웹 기본 지식 - 2](https://devlog111.tistory.com/32)
+
 #### [HTTP 웹 기본 지식 - 1](https://devlog111.tistory.com/27)
 
 #### [Do it! 알고리즘 7주차](https://devlog111.tistory.com/26)
