@@ -1,6 +1,8 @@
-## Blog posting (2026/2/20 update)
+## Blog posting (2026/2/21 update)
 
 ### Java & Spring
+
+#### [스프링 미니 프로젝트 - 비즈니스 로직1](https://devlog111.tistory.com/33)
 
 #### [스프링 미니 프로젝트 - RN 연동](https://devlog111.tistory.com/31)
 
